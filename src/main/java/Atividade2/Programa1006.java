@@ -8,7 +8,7 @@ public class Programa1006 {
         double B = Double.parseDouble(leitor.nextLine());
         double C = Double.parseDouble(leitor.nextLine());
         double media2 = (2*A + 3*B + 5*C)/(2 + 3 + 5);
-        System.out.printf("Media = %.1f\n", media2);
+        System.out.printf("MEDIA = %.1f\n", media2);
         leitor.close();
     }
 }
