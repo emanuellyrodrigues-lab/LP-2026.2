@@ -1,5 +1,4 @@
 package Atividade2;
-
 import java.util.Scanner;
 
 public class Programa1006 {
